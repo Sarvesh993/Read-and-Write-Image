@@ -19,22 +19,22 @@ Use imwrite(filename, image) to write the image.
 ### Step5:
 End the program and close the output image windows.
 ## Program:
-### Developed By:
-### Register Number: 
+### Developed By: P.Sarveshvaran
+### Register Number: 212221230090
 i) #To Read,display the image
 ```
-  
+  ![output](di1.png)
 
 ```
 ii) #To write the image
 ```
-
+  ![output](di2.png)
 
 
 ```
 iii) #Find the shape of the Image
 ```python3
-
+![output](di3.png)
 
 
 ```
@@ -42,12 +42,12 @@ iv) #To access rows and columns
 
 ```python3
 
-
+![output](di4.png)
 
 ```
 v) #To cut and paste portion of image
 ```python3
-
+![output](di5.png)
 
 
 ```
