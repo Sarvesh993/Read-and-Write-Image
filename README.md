@@ -23,18 +23,18 @@ End the program and close the output image windows.
 ### Register Number: 212221230090
 i) #To Read,display the image
 ```
-  ![output](di1.png)
+  
 
 ```
 ii) #To write the image
 ```
-  ![output](di2.png)
+  
 
 
 ```
 iii) #Find the shape of the Image
 ```python3
-![output](di3.png)
+
 
 
 ```
@@ -42,12 +42,12 @@ iv) #To access rows and columns
 
 ```python3
 
-![output](di4.png)
+
 
 ```
 v) #To cut and paste portion of image
 ```python3
-![output](di5.png)
+
 
 
 ```
@@ -57,24 +57,29 @@ v) #To cut and paste portion of image
 ### i) Read and display the image
 
 <br>
+![output](di1.png)
 <br>
 
 ### ii)Write the image
 
 <br>
+![output](di2.png)
 <br>
 
 ### iii)Shape of the Image
 
 <br>
+![output](di3.png)
 <br>
 
 ### iv)Access rows and columns
 <br>
+![output](di4.png)
 <br>
 
 ### v)Cut and paste portion of image
 <br>
+![output](di5.png)
 <br>
 
 ## Result:
