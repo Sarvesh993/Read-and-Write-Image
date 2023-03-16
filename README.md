@@ -77,31 +77,30 @@ cv2.waitKey(0)
 
 ### i) Read and display the image
 
-<br>
-![output](di1.png)
-<br>
+
+![output](https://github.com/Sarvesh993/Read-and-Write-Image/blob/main/di1.png)
+
 
 ### ii)Write the image
 
-<br>
-![output](di2.png)
-<br>
+
+![output](https://github.com/Sarvesh993/Read-and-Write-Image/blob/main/di2.png)
+
 
 ### iii)Shape of the Image
 
-<br>
-![output](di3.png)
-<br>
+
+![output](https://github.com/Sarvesh993/Read-and-Write-Image/blob/main/di3.png)
+
 
 ### iv)Access rows and columns
-<br>
-![output](di4.png)
-<br>
+
+![output](https://github.com/Sarvesh993/Read-and-Write-Image/blob/main/di4.png)
+
 
 ### v)Cut and paste portion of image
-<br>
-![output](di5.png)
-<br>
+![output](https://github.com/Sarvesh993/Read-and-Write-Image/blob/main/di5.png)
+
 
 ## Result:
 Thus the images are read, displayed, and written successfully using the python program.
